@@ -1,0 +1,105 @@
+.navbar {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+.logo-img {
+   height: 70px;
+  max-height: 70px;
+}
+.navbar-nav .nav-link {
+  font-size: 1.1rem;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+}
+.navbar-brand {
+  color: #004e89;
+}
+.nav-link:hover {
+  color: #fcbf49;
+}
+.hero {
+  background-image: url('images/hotel.png');
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  padding-top: 80px;
+}
+.text-primary {
+  color: #004e89 !important;
+}
+.card-title {
+  font-weight: 600;
+}
+.card-text {
+  margin-bottom: 0;
+}
+#recenze p {
+  font-size: 1.05rem;
+}
+.chat-wrap {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-family: sans-serif;
+  z-index: 1000;
+}
+.chat-toggle {
+  background: #004e89;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.chat-window {
+  display: none;
+  background: #fff;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  width: 220px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.chat-window input {
+  width: 100%;
+  padding: 6px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.chat-send {
+  width: 100%;
+  padding: 8px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.img-pokoj {
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+  .caption-box {
+    margin: 10px auto;
+    font-weight: 600;
+    color: #004e89;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  /*zobrazení šipek */
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%;
+  }
+
+  
+
+
+
+    
+  
+    
